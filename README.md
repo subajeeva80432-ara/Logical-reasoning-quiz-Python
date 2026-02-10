@@ -13,7 +13,7 @@ This project is a console-based Logical Reasoning Quiz application developed usi
    Syllogism
 
 Each correct answer carries 1 mark, and the final score is displayed at the end of the quiz.
-=====================================================================================================
+==========================================================================================
 
 🚀 Features
 
@@ -24,7 +24,7 @@ Each correct answer carries 1 mark, and the final score is displayed at the end 
 ✔️ Simple and user-friendly interface,
 ✔️ Console-based execution.
 
-=======================================================================================================
+============================================================================================
 
 🛠️ Technologies Used
 
@@ -34,7 +34,7 @@ Variables,
 User Input Handling,
 String methods (.lower())
 
-========================================================================================================
+=============================================================================================
 
 ⚙️ How the Program Works
 
